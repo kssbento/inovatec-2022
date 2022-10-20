@@ -4,6 +4,18 @@
 
 Especificar os integrantes do grupo e suas funções (Gestão Executiva, Gestão Operacional e Gestão de Marketing).
 
+## SQUAD VERMELHO (BAHIA)
+- Kelly Suely dos Santos Bento
+- Victor Passos
+- Henry MacKenzie
+- Juliana da Silva Santana
+- George Alves
+- Rafaela Silva
+- Marcos Vinicius Santana
+- Brenda Andrade
+- Larissa Santos Passos
+- Ana 
+
 ## Passos
 
 Descrever os 5 passos para elaboração do projeto de inovação. Nesse contexto, os detalhes sobre o objetivo de cada passo estão disponíveis [aqui](https://academiapme-my.sharepoint.com/:w:/g/personal/marjory_dio_me/Efb7IK14WzJNhnx7wmDwh9gBydAUvsgfLgGvpanquISsZg). Basicamente, segue uma síntese de cada passo:
